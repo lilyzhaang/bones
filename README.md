@@ -10,3 +10,9 @@ those pages that are under "stuff i write lol" will have all three of those elem
 as of may 11, 1:45 AM, i'm thinking, what else should I add? should I try to incorporate? 
 
 something cool might be snippets of my startup studio curriculum. after all, it's all I've worked on for the past few semesters. I could also add some of my school presentations - I think the Ethics of Youtube one could be interesting? Maybe I will also add some of the papers I wrote for the Desperate Housewives class, with some extra editing. Along those lines, I could add my Ethics Book Review too. I just want to be able to put the stuff I make to some use that's not just! a grade! 
+
+more features I want to add: 
+1. some way to help people interact. I really like the way that on some websites, when you hover over certain regions, images will pop up. I would like to have that! but in like colums across the page. 
+2. it could be fun to have like some flowers swaying in the wind on loop for the front page. really get the feel that it's a garden. 
+3. building a style sheet so I can at least be consistent. 
+4. ...
