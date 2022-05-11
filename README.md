@@ -6,3 +6,7 @@ as of may 9, 2022, 2:19 AM EST, this is where I'm at. so far I'm pretty happy wi
 as of may 10, 2022, 7:36 PM EST, i've decided that: all the pages EXCEPT for those under "stuff i write lol" will have the "header 1", "click me to go home!", and "click me to read more" links to the center. 
 
 those pages that are under "stuff i write lol" will have all three of those elements left-aligned within the box. i think that looks best for the wall of text that those writings are. 
+
+as of may 11, 1:45 AM, i'm thinking, what else should I add? should I try to incorporate? 
+
+something cool might be snippets of my startup studio curriculum. after all, it's all I've worked on for the past few semesters. I could also add some of my school presentations - I think the Ethics of Youtube one could be interesting? Maybe I will also add some of the papers I wrote for the Desperate Housewives class, with some extra editing. Along those lines, I could add my Ethics Book Review too. I just want to be able to put the stuff I make to some use that's not just! a grade! 
