@@ -16,3 +16,4 @@ more features I want to add:
 2. it could be fun to have like some flowers swaying in the wind on loop for the front page. really get the feel that it's a garden. 
 3. building a style sheet so I can at least be consistent. 
 4. ...
+5. adding photos to more of my text-heavy pages. clear up for the eyes. 
